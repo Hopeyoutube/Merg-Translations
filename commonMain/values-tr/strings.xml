@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
-    <string name="singleplayer">Tek Oyunculu</string>
+    <string name="singleplayer">test</string>
     <string name="lan_multiplayer">LAN Çok Oyunculu</string>
     <string name="lan">LAN</string>
     <string name="online_multiplayer">Çevrimiçi Çok Oyunculu</string>
