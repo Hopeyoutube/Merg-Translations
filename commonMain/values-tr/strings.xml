@@ -739,6 +739,7 @@
     <string name="description_coming_soon">Bu mod çok yakında geliyor, takipte kal!</string>
     <string name="description_competitive">Dereceli 1v1 hayatta kalma! Benzer becerideki rakipleri yenerek reyting kazan. İki oyuncu da elenmezse 2 dakikalık uzatması olan 3 dakikalık bir maç. Küresel liderlik tablosunda tırmanmak için kazan, gerilemek için kaybet; ancak reyting değişimi seninle rakibin arasındaki puan farkına bağlıdır.</string>
     <string name="description_multimerg">İKİ hücreyle doğarsın ve yin-yang düğmesiyle kontrolleri arasında geçiş yaparsın! Yalnızca aktif hücre yön çubuğuna, bölünmeye ve fırlatmaya tepki verir. Diğeri ise son yönünde hareket etmeye devam eder. İki hücren bölünürse birbirini yiyebilir, ancak son parça daima korunur.</string>
+    
     <!-- Map sizes !-->
     <string name="mapsize_tiny">Küçüçük</string>
     <string name="mapsize_small">Küçük</string>
