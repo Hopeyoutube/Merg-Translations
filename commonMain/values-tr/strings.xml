@@ -330,9 +330,9 @@
     <string name="season_pass_admin_cd">Admin</string>
     <string name="season_pass_level_short">Seviye %1$d</string>
     <string name="season_pass_resets_now">Şimdi sıfırlanıyor</string>
-    <string name="season_pass_resets_in_dh">%1$dd gün %2$dh saat sonra sıfırlanacak</string>
-    <string name="season_pass_resets_in_hm">%1$dh saat %2$dm dakika sonra sıfırlanacak</string>
-    <string name="season_pass_resets_in_m">%1$dm dakika sonra sıfırlanacak</string>
+    <string name="season_pass_resets_in_dh">%1$d gün %2$d saat sonra sıfırlanacak</string>
+    <string name="season_pass_resets_in_hm">%1$d saat %2$d dakika sonra sıfırlanacak</string>
+    <string name="season_pass_resets_in_m">%1$d dakika sonra sıfırlanacak</string>
 
     <string name="season_pass_history_title">SEZONLUK BİLET GEÇMİŞİ</string>
     <string name="season_pass_history_cd">Geçmiş</string>
