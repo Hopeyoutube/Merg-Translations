@@ -950,7 +950,7 @@
     <!-- Player List -->
     <string name="players">Oyuncular</string>
     <string name="spectators">İzleyiciler</string>
-    <string name="joined_room">%s odaya katıldı</string>
+    <string name="joined_room">"%s" odasına katıldın</string>
     <string name="player_list_title">OYUNCU LİSTESİ</string>
     <string name="staff_list_title">YETKİLİ LİSTESİ</string>
     <string name="player_list_count">Oyuncular: %d ⋅ Botlar: %d ⋅ Toplam: %d</string>
@@ -975,9 +975,9 @@
     <string name="custom_image_upload_failed">Görsel yüklenemedi</string>
     <string name="custom_image_read_error">Görsel okunamadı</string>
     <string name="custom_image_invalid_format">Dosya bir görsel olmalıdır</string>
-    <string name="custom_image_error_size">%1$d KB boyutundaki görselin çok büyük (maksimum %2$d KB)</string>
-    <string name="custom_image_error_dimensions">%1$dx%2$d boyutundaki görselin çok büyük (maksimum %3$dx%4$d piksel)</string>
-    <string name="custom_image_error_both">%1$d KB / %3$dx%4$d boyutundaki görselin çok büyük (maksimum %2$d KB / %5$dx%6$d piksel)</string>
+    <string name="custom_image_error_size">%1$d KB boyutundaki görsel çok büyük (maksimum %2$d KB)</string>
+    <string name="custom_image_error_dimensions">%1$dx%2$d boyutundaki görsel çok büyük (maksimum %3$dx%4$d piksel)</string>
+    <string name="custom_image_error_both">%1$d KB / %3$dx%4$d boyutundaki görsel çok büyük (maksimum %2$d KB / %5$dx%6$d piksel)</string>
     <string name="custom_image_compress_title">Görsel Çok Büyük - Sıkıştırılsın mı?</string>
     <string name="custom_image_compress_accept">Sıkıştırılmışı Kullan</string>
     <string name="custom_image_compress_failed">Görsel boyut sınırına uyacak şekilde sıkıştırılamadı</string>
