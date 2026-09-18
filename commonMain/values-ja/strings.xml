@@ -1243,11 +1243,11 @@
     <string name="ach_title_professional">プロ</string>
     <string name="ach_title_master">マスター</string>
     <string name="ach_desc_level">経験値レベル%1$sに到達する。</string>
-    <string name="ach_title_hour_played">時間OK</string>
-    <string name="ach_title_day_played">日間OK</string>
-    <string name="ach_title_week_played">週間OK</string>
-    <string name="ach_title_fortnight_played">二週間OK</string>
-    <string name="ach_title_month_played">月間OK</string>
+    <string name="ach_title_hour_played">プレイ時間</string>
+    <string name="ach_title_day_played">プレイ日</string>
+    <string name="ach_title_week_played">プレイ週</string>
+    <string name="ach_title_fortnight_played">プレイ二周</string>
+    <string name="ach_title_month_played">プレイ月</string>
     <string name="ach_desc_time_played_one">1時間プレイする。</string>
     <string name="ach_desc_time_played">%1$s時間プレイする。</string>
     <string name="ach_title_acquainted">知り合った</string>
