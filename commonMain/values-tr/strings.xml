@@ -675,7 +675,7 @@
     <string name="stat_bronze_value">Bronz (Değer):</string>
     <string name="stat_bronze_count">Bronz (Sayı):</string>
     <string name="stat_bonus">Bonus:</string>
-    <string name="stat_food_eaten">Yenilen Yem:</string>
+    <string name="stat_food_eaten">Yutulan Yem:</string>
     <string name="stat_players_eaten">Yutulan Oyuncular:</string>
     <string name="stat_bots_eaten">Yenilen Botlar:</string>
     <string name="stat_blobs_eaten">Yenilen Hücreler:</string>
