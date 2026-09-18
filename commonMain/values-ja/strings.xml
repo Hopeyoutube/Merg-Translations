@@ -748,9 +748,9 @@
     <string name="mapsize_xl">最大</string>
 
     <!-- Bot difficulties !-->
-    <string name="difficulty_easy">やさしい</string>
-    <string name="difficulty_normal">ふつう</string>
-    <string name="difficulty_hard">むずかしい</string>
+    <string name="difficulty_easy">易しい</string>
+    <string name="difficulty_normal">普通</string>
+    <string name="difficulty_hard">難しい</string>
 
     <!-- Adventure mode !-->
     <string name="adventure_stage">ステージ</string>
@@ -799,7 +799,7 @@
     <!-- Skins !-->
     <string name="skin">スキン</string>
     <string name="no_skin">スキンなし</string>
-    <string name="selected_skin">現在のスキン</string>
+    <string name="selected_skin">ご使用のスキン</string>
     <string name="select_skin_color">カラーの選択</string>
     <string name="skin_color_preview">プレビュー：</string>
     <string name="skin_tab_standard">デフォルト</string>
@@ -919,7 +919,7 @@
     <string name="toast_please_wait">お待ちください</string>
     <string name="permission_denied">許可拒否</string>
     <string name="dialog_locked">ロック</string>
-    <string name="duplicate_connection">すでにアカウントに接続しました！</string>
+    <string name="duplicate_connection">すでにアカウントに接続しています！</string>
     <string name="outdated_client">クライアントの更新が必要です！\nクライアントバージョン: %1$s (%2$d)\nサーバーバージョン: %3$s (%4$d)</string>
 
     <!-- Block Player -->
