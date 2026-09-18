@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+s<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name" translatable="false">Merg</string>
 
     <!-- Main menu !-->
@@ -729,15 +729,15 @@
     <string name="gamemode_multimerg">マルチマーグ</string>
     <string name="gamemode_domination">ドミネーション</string>
     <string name="description_domination">クラシックな制限時間ありのゲーム。サイズは1位を保っている間のみカウントされる！マップ上で最大のブロブとして1秒過ごすごとに、スコアに1秒が追加される。1位だった間に獲得した秒数が差し引かれない。最も長く1位を保ったプレイヤーの勝ち！</string>
-    <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになろう！サイズを使ってマップを制しよう。より大きなブロブに気をつけてね！</string>
-    <string name="description_teams">同じカラーのプレイヤーに入ろう！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにしよう！チームメイトは同じチームのプレイヤーを食べられない。</string>
-    <string name="description_survival">ONE LIFE, ONE ROUND！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めよう。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴もう！</string>
-    <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破しよう。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利！</string>
-    <string name="description_knockout">ノックアウトラウンドで競い合おう！プレイヤーは一定間隔で自由にリスポーンできる。最下位のプライヤーは各間隔で脱落となる。最後まで生き残って勝とう！</string>
-    <string name="description_adventure">ユニークな目的のアドベンチャーステージをクリアしよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露しよう！各ステージで難易度が上がる！</string>
-    <string name="description_soccer">相手のゴールにシュートを決めよう。タイムアップ時に得点多いチームの勝ち！</string>
+    <string name="description_classic">小さいプレイヤーを食べてマップで最大のブロブになれ！サイズを使ってマップを制せよ。自分より大きなブロブに気をつけろ！</string>
+    <string name="description_teams">同じカラーのプレイヤーに入れ！敵チームのプレイヤーブロブを食べて、チームがリーダーボードを制するようにせよ！チームメイトは同じチームのプレイヤーを食べられない。</string>
+    <string name="description_survival">ONE LIFE, ONE ROUND！リスポーン可能時間が終了する前に、できるだけ多くのスコアを集めろ。その後は、一度の死が命取りになる！最後まで生き残るか、時間終了時に最大サイズとなって勝利を掴め！</string>
+    <string name="description_team_survival">チーム対抗サバイバル！仲間と協力して敵チームを撃破せよ。最後まで生き残るか、タイムアップ時にチームの合計サイズが最大であれば勝利！</string>
+    <string name="description_knockout">ノックアウトラウンドで競い合え！プレイヤーは一定間隔で自由にリスポーンできる。最下位のプライヤーは各間隔で脱落となる。最後まで生き残って勝てよ！</string>
+    <string name="description_adventure">ユニークな目的のアドベンチャーステージをクリアしよう！難易度はステージが進むにつれて上がり、ボーナスを獲得し、スキルを披露せよ！各ステージで難易度が上がる！</string>
+    <string name="description_soccer">相手のゴールにシュートを決めろ。タイムアップ時に得点多いチームの勝ち！</string>
     <string name="description_coming_soon">このゲームモードは近日公開予定です。続報を待ちましょう！</string>
-    <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの相手を倒して、ランキングに入ろう。2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
+    <string name="description_competitive">1対1のランキング戦サバイバル！同じくらいのスキルの相手を倒して、ランキングに入れよ。2人のプレイヤーが生存した場合、3分間のマッチと2分間の延長時間が得られる。勝ってグローバルランキングを駆け上がり、負けたら下がってしまう。ランキングの変動は2人のプレイヤーのスキル差によって決まる。</string>
     <string name="description_multimerg">2つのブロブを生成し、陰陽ボタンで操作を切り替えよう！ジョイスティック、分裂、射出に反応するのは操作中のブロブだけ。もう片方のブロブは、直前の方向へ進み続ける。分裂時にお互いを食べ合うこともできるが、最後の1匹は守られる（吸収されない）ので安心。</string>
 
     <!-- Map sizes !-->
@@ -1226,17 +1226,17 @@
     <string name="achievement_secret_description">???</string>
     <string name="achievement_streak">現在：%1$s・最高：%2$s・次の日：%3$s</string>
     <string name="ach_title_big">大きい</string>
-    <string name="ach_title_huge">Huge</string>
-    <string name="ach_title_massive">Massive</string>
-    <string name="ach_title_gigantic">Gigantic</string>
-    <string name="ach_title_enormous">Enormous</string>
-    <string name="ach_desc_highest_size">サイズ%1$sに到達</string>
+    <string name="ach_title_huge">大きすぎ</string>
+    <string name="ach_title_massive">巨大</string>
+    <string name="ach_title_gigantic">超巨大</string>
+    <string name="ach_title_enormous">とてつもなく大きい</string>
+    <string name="ach_desc_highest_size">サイズ%1$sに到達する。</string>
     <string name="ach_title_food_nibbler">チョッパー</string>
     <string name="ach_title_food_taster">うまうま</string>
     <string name="ach_title_food_eater">食べ物好き</string>
     <string name="ach_title_food_gobbler">大食い</string>
     <string name="ach_title_food_devourer">デバウアー</string>
-    <string name="ach_desc_food_eaten">ドットを%1$s個食べよう</string>
+    <string name="ach_desc_food_eaten">ドットを%1$s個食べる。</string>
     <string name="ach_title_first_steps">始まり</string>
     <string name="ach_title_apprentice">見習い</string>
     <string name="ach_title_experienced">経験者</string>
@@ -1248,14 +1248,14 @@
     <string name="ach_title_week_played">週間OK</string>
     <string name="ach_title_fortnight_played">二週間OK</string>
     <string name="ach_title_month_played">月間OK</string>
-    <string name="ach_desc_time_played_one">1時間プレイ</string>
-    <string name="ach_desc_time_played">%1$s時間プレイ</string>
+    <string name="ach_desc_time_played_one">1時間プレイする。</string>
+    <string name="ach_desc_time_played">%1$s時間プレイする。</string>
     <string name="ach_title_acquainted">知り合った</string>
     <string name="ach_title_well_known">よく知られた</string>
     <string name="ach_title_popular">人気</string>
     <string name="ach_title_famous">有名</string>
     <string name="ach_title_celebrity">セレブ</string>
-    <string name="ach_desc_friends">フレンドを%1$s人追加</string>
+    <string name="ach_desc_friends">フレンドを%1$s人追加する。</string>
     <string name="ach_title_wanderer">旅人</string>
     <string name="ach_title_explorer">エクスプローラー</string>
     <string name="ach_title_adventurer">アドベンチャラー</string>
@@ -1307,11 +1307,11 @@
     <string name="ach_title_seasonal_streak">シーズナルストリーク</string>
     <string name="ach_title_yearly_streak">イヤーリーストリーク</string>
     <string name="ach_desc_streak">%1$s日間連続で1日に少なくとも1回プレイする。</string>
-    <string name="ach_title_encouragement">Encouragement</string>
-    <string name="ach_title_helping_hand">Helping Hand</string>
-    <string name="ach_title_generous_buddy">Generous Buddy</string>
-    <string name="ach_title_master_donator">Master Donator</string>
-    <string name="ach_title_philanthropist">Philanthropist</string>
+    <string name="ach_title_encouragement">励まし</string>
+    <string name="ach_title_helping_hand">助けの手</string>
+    <string name="ach_title_generous_buddy">優しい人</string>
+    <string name="ach_title_master_donator">主要寄付者</string>
+    <string name="ach_title_philanthropist">慈善家</string>
     <string name="ach_desc_gift_voidstones">ボイドストーンを計%1$s枚送付する。</string>
     <string name="ach_title_map_control">マップコントロール</string>
     <string name="ach_desc_map_control">マップ全体を制圧する。</string>
