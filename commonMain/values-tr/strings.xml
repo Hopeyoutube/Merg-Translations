@@ -215,7 +215,7 @@
     <string name="pick">Seç</string>
     <string name="redeem_code">Kodu Kullan</string>
     <!-- Boosters -->
-    <string name="boosters">Güçlendiriciler</string>
+    <string name="boosters">Özellikler</string>
     <string name="booster_permanent_upgrades">Kalıcı Yükseltmeler</string>
     <string name="booster_owned">sahip olunan: %1$s</string>
     <!-- Value shown for a booster the player has not bought any level of. -->
