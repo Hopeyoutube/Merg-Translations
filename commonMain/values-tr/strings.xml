@@ -1140,7 +1140,7 @@
     <string name="left">Left</string> <!-- left as in remaining, not the left direction -->
     <string name="total">Total</string>
     <string name="unknown">Bilinmiyor</string>
-    <string name="invalid_selection">Geçersiz Seçim!</string>
+    <string name="invalid_selection">Geçersiz seçim!</string>
     <string name="invalid_name">Geçersiz İsim!</string>
     <string name="content_blocked">String contains blocked content</string>
     <string name="connecting">Bağlanıyor%s</string>
@@ -1218,7 +1218,7 @@
     <string name="preferences_loaded">Tercihler yüklendi!</string>
     <string name="preferences_transfer_failed">Preferences transfer failed: %1$s</string>
     <string name="invalid_file">Geçersiz dosya</string>
-    <string name="unlocked">Açıldı:</string>
+    <string name="unlocked">Kilidi açıldı:</string>
     <string name="unlocked_competitive">Unlocked Competitive</string>
     <!-- Achievements -->
     <string name="achievements_ap">%1$s/%2$s (%3$s%%)</string>
