@@ -1023,7 +1023,7 @@
     <string name="custom_banner_compress_accept">Use Compressed</string>
     <string name="custom_banner_compress_failed">Banner could not be compressed to fit the size limit</string>
     <string name="custom_banner_crop_title">Crop to a 16:9 banner</string>
-    <string name="custom_banner_crop_apply">Kırp &amp; Kullan</string>
+    <string name="custom_banner_crop_apply">Kırp &amp; kullan</string>
     <string name="custom_banner_processing">İşleniyor…</string>
     <string name="custom_banner_bought">Özel Afiş Yükleme</string>
     <string name="custom_banner_refund">Özel Afiş İadesi</string>
