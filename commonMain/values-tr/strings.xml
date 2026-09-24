@@ -1143,7 +1143,7 @@
     <string name="invalid_selection">Geçersiz seçim!</string>
     <string name="invalid_name">Geçersiz İsim!</string>
     <string name="content_blocked">String contains blocked content</string>
-    <string name="connecting">Bağlanıyor%s</string>
+    <string name="connecting">Bağlanılıyor%s</string>
     <string name="error">Hata</string>
     <string name="error_with_string">Error: %s</string>
     <string name="copied_to_clipboard">Copied to clipboard.</string>
